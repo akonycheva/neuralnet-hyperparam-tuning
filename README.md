@@ -1,4 +1,4 @@
-# Fashion MNIST Neural Network Project
+# Hyperparameter Tuning of Neural Networks Using PyTorch: A Comparative Study on FashionMNIST
 
 This project implements a neural network to classify images from the Fashion MNIST dataset. It explores different network topologies, optimizers, learning rates, and activation functions to find the best-performing model. The project includes data preprocessing, model training, evaluation, and visualization of results.
 
