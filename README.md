@@ -30,7 +30,7 @@ pip install -r requirements.txt
 ## Project Structure
 
 ```bash
-fashion_mnist_project/
+neuralnet-hyperparam-tuning/
 │
 ├── data_utils.py         # Data loading and EDA functions
 ├── model.py             # Neural network model definition
